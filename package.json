@@ -1,14 +1,23 @@
 {
-  "name": "analytics",
-  "version": "0.0.1",
-  "description": "",
+  "name": "@ideacompiler/analytics",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "firebase": "^9.14.0"
-  }
+  },
+  "devDependencies": {},
+  "description": "analitycs SDK",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirito/analytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amirito/analytics/issues"
+  },
+  "homepage": "https://github.com/amirito/analytics#readme"
 }
